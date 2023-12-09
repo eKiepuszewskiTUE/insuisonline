@@ -1,0 +1,16 @@
+{
+    "albums": [
+        {
+            "name": "test1",
+            "artist": "test",
+            "year": "test",
+            "genre": "test"
+        },
+        {
+            "name": "test2",
+            "artist": "test",
+            "year": "test",
+            "genre": "test"
+        }
+    ]
+}
